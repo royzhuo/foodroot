@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/foodroot.iml" filepath="$PROJECT_DIR$/foodroot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foodwebapp/foodwebapp.iml" filepath="$PROJECT_DIR$/foodwebapp/foodwebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/footcore/footcore.iml" filepath="$PROJECT_DIR$/footcore/footcore.iml" />
+    </modules>
+  </component>
+</project>

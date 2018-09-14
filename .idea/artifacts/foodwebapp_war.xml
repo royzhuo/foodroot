@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="foodwebapp:war">
+    <output-path>$PROJECT_DIR$/foodwebapp/target</output-path>
+    <root id="archive" name="food-webapp.war">
+      <element id="artifact" artifact-name="foodwebapp:war exploded" />
+    </root>
+  </artifact>
+</component>
