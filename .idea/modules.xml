@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/foodroot.iml" filepath="$PROJECT_DIR$/foodroot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/foodwebapp/foodwebapp.iml" filepath="$PROJECT_DIR$/foodwebapp/foodwebapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/footcore/footcore.iml" filepath="$PROJECT_DIR$/footcore/footcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fweb/fweb.iml" filepath="$PROJECT_DIR$/fweb/fweb.iml" />
     </modules>
   </component>
 </project>

@@ -6,14 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="foodwebapp" />
         <module name="footcore" />
+        <module name="fweb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="foodroot" target="1.5" />
+      <module name="foodroot" target="1.8" />
       <module name="foodwebapp" target="1.8" />
-      <module name="footcore" target="1.5" />
+      <module name="footcore" target="1.8" />
+      <module name="fweb" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

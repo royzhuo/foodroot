@@ -7,4 +7,6 @@ package com.service;/**
  * @create 2018-09-14 10:01
  **/
 public interface BaseService {
+
+    public void happy(String name);
 }

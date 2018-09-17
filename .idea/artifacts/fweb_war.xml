@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fweb:war">
+    <output-path>$PROJECT_DIR$/fweb/target</output-path>
+    <root id="archive" name="fweb.war">
+      <element id="artifact" artifact-name="fweb:war exploded" />
+    </root>
+  </artifact>
+</component>
