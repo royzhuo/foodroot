@@ -15,6 +15,7 @@ import java.util.Date;
 public class Food {
 
     @Id
+    @Column
     private String id;
     @Column
     private String name;
